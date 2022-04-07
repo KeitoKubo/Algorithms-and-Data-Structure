@@ -7,6 +7,16 @@ The programming language used is C++.　　
 ## [contents(What I learned)]  
 
 ### Algorithms
-
+- Binary Search
+- Bit Full Search
+- Breadth First Search
+- Cummulative Sum
+- Depth First Search
+- Dijkstra's Algorithm
+- Greedy Algorithm
+- Heuristic
+- Mathematical Resolution
+- Reccurence formula
+- Two Pointers
 
 ### Data Structure
