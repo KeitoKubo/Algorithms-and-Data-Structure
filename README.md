@@ -17,6 +17,8 @@ The programming language used is C++.　　
 - Heuristic
 - Mathematical Resolution
 - Reccurence formula
+- Toporogical Sort
 - Two Pointers
+- Union Find
 
 ### Data Structure
