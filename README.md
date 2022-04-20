@@ -13,7 +13,9 @@ The programming language used is C++.　　
 - Cummulative Sum
 - Depth First Search
 - Dijkstra's Algorithm
+- Dynamic Programing
 - Greedy Algorithm
+- Full Search
 - Heuristic
 - Mathematical Resolution
 - Reccurence formula
